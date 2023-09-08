@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/pritom-5.github.io/",
+  base: "/FOOD_MONSTER-simple-game-to-practice-vim-motion/",
 });
