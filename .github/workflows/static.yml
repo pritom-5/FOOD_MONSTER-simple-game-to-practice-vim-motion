@@ -16,7 +16,7 @@ jobs:
       - name: Build
         run: pnpm run build
       - name: Deploy
-        uses: peaceiris/github-pages-deploy-action@v3
+        uses: peaceiris/github-pages-deploy-action@v3.5.0
         with:
           branch: gh-pages
           folder: dist
