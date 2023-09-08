@@ -11,4 +11,4 @@ Here is a small demo of the game.
 
 ## LIVE URL
 
-Here is the link: [live-demo-food-monster]()
+Here is the link: [live-demo-food-monster](https://pritom-5.github.io/FOOD_MONSTER-simple-game-to-practice-vim-motion/)
